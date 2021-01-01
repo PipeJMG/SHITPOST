@@ -1,2 +1,3 @@
-# SHPOST
-Esto es un test para ver como monda funciona GitHub
+# SHITPOST
+Necesito saber como funciona this monda
+
