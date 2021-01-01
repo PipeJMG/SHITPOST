@@ -2,12 +2,16 @@ body
 {
     color: springgreen;
     text-align: center;
-<<<<<<< HEAD
-    
-=======
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
->>>>>>> master
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-style: italic;
     background-color: black;
 }
 
+h2  
+{
+    color: blue;
+    text-align: center;
+    font-style: oblique;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
