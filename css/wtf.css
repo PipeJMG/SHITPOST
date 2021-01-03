@@ -16,6 +16,13 @@ h2
 
 }
 
+footer
+{
+    color: aqua;
+    text-decoration: blueviolet;
+    font-style: inherit;
+    font-family: fantasy;
+}
 
 
 
